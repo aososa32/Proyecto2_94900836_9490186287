@@ -1,0 +1,16 @@
+
+{
+  "name": "tu-panas-tore",
+  "version": "1.0.0",
+  "homepage": "https://github.com/aososa32/Proyecto2_94900836_9490186287",
+  
+
+  "scripts": {
+    
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+  
+  
+}
+
